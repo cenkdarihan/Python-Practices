@@ -2,14 +2,12 @@
 
 x = 5
 y = "John"
-print(x)
-print(y) # 5 
-         # John
+print(x) # 5
+print(y) # John 
          
 x = 4       # x is of type int
 x = "Sally" # x is now of type str
-print(x)
-            # Sally
+print(x)    # Sally
             
 # Casting
 
@@ -26,8 +24,7 @@ print(type(y))  # class'str'
 
 # Single or Double Quotes?
 
-x = "John"
-# is the same as
+x = "John"           # is the same as
 x = 'John'           # İf we print x, it prints "John" in two situation.
 
 # Case-Sensitive
